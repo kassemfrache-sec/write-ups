@@ -4,7 +4,7 @@ A collection of my TryHackMe room and challenge writeups, organized by difficult
 
 ## About
 
-I'm a cybersecurity student focused on offensive security, working toward becoming a penetration tester. This repo documents my room solves, including recon, enumeration, exploitation, and privilege escalation steps.
+I'm a cybersecurity student focused on offensive security, working toward becoming a penetration tester. This repo documents my room solving, including methodology steps etc.
 
 > Note: Some rooms ask that flags not be published. Flags in these writeups are redacted where required by room rules.
 
@@ -41,4 +41,4 @@ thm-writeups/
 └── insane/
 ```
 
-Each room folder contains a `README.md` writeup and an `images/` folder for screenshots.
+Each room folder contains a `README.md` writeup.
