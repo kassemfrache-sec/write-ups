@@ -28,12 +28,6 @@ I'm a cybersecurity student focused on offensive security, working toward becomi
 |------|----------|------|------|
 | - | - | - | - |
 
-### Insane
-
-| Room | Category | Date | Link |
-|------|----------|------|------|
-| - | - | - | - |
-
 ## Structure
 
 ```
